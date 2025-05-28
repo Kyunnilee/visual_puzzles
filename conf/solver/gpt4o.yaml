@@ -1,0 +1,6 @@
+_target_: solvers.gpt_solver.GPTSolver
+name: gpt-4o-2024-08-06
+low_res_mode: False
+model: "gpt-4o-2024-08-06"
+api_key: ""
+data_dir: "${basic.data_dir}"

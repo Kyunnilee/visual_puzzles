@@ -1,0 +1,5 @@
+_target_: solvers.claude_solver.ClaudeSolver
+name: claude-3-5-haiku-20241022
+model: claude-3-5-haiku-20241022
+api_key: ""
+data_dir: "${basic.data_dir}"

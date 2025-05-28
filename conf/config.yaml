@@ -1,0 +1,18 @@
+# Single-needle configuration
+defaults:
+  - solver: gpt4o
+  - _self_
+
+basic:
+  mode: image
+  data_dir: dataset
+  output_dir: result/${solver.name}_${basic.mode}/result
+  use_icl: false
+  use_skill_prompt: false
+  use_caption: false
+
+
+hydra:
+  run:
+    dir: result/${solver.name}_${basic.mode}/logs
+

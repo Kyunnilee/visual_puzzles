@@ -1,0 +1,10 @@
+hydra-core
+google-generativeai # used by gemini 
+anthropic           # used by claude
+openai              # used by gpt
+
+torch
+torchvision
+transformers~=4.45
+accelerate
+# flash-attn~=2.6

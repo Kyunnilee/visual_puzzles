@@ -1,0 +1,4 @@
+_target_: solvers.qwen_solver.QwenOmniSolver
+name: Qwen/Qwen2.5-Omni-7B
+huggingface_model_id: Qwen/Qwen2.5-Omni-7B
+data_dir: "${basic.data_dir}"

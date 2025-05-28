@@ -1,0 +1,4 @@
+_target_: solvers.gemini_solver.GeminiSolver
+name: gemini-2.5-flash-preview-04-17
+model: "gemini-2.5-flash-preview-04-17"
+data_dir: "${basic.data_dir}"

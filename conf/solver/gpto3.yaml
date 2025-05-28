@@ -1,0 +1,6 @@
+_target_: solvers.gpt_solver.GPTSolver
+name: o3-2025-04-16
+low_res_mode: False
+model: "o3-2025-04-16"
+api_key: ""
+data_dir: "${basic.data_dir}"

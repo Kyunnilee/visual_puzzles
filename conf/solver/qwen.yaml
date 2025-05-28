@@ -1,0 +1,4 @@
+_target_: solvers.qwen_solver.QwenSolver
+name: Qwen/Qwen2.5-VL-7B-Instruct
+huggingface_model_id: Qwen/Qwen2.5-VL-7B-Instruct
+data_dir: "${basic.data_dir}"

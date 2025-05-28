@@ -1,0 +1,7 @@
+_target_: solvers.pixtral_solver.PixtralSolver
+name: mistralai/Pixtral-12B-2409
+huggingface_model_id: mistralai/Pixtral-12B-2409
+data_dir: "${basic.data_dir}"
+
+# run model via vllm 
+# vllm serve mistralai/Pixtral-12B-2409 -tp 4 --task generate --tokenizer_mode mistral
