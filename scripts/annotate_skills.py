@@ -7,8 +7,8 @@ import gradio as gr
 from PIL import Image
 
 # Configurable constants
-DATA_JSON_PATH = Path("./answers.json")
-IMAGE_DIR = Path("./image")
+DATA_JSON_PATH = Path("../dataset/answers.json") # Path to answers.json
+IMAGE_DIR = Path("../dataset/image") # Path to image directory
 CATEGORY = [
     "Image Recognition",
     "Text Recognition (OCR + Typography/Layout)",

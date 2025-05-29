@@ -23,17 +23,6 @@ class GeminiSolver(Solver):
 
     def run_sample(self, prompt:str, image_path:str):
         image = Image.open(image_path)
-        # content = [
-        #     {
-        #         "type": "image",
-        #         "mime_type": "image/jpeg",
-        #         "data": image
-        #     },
-        #     {
-        #         "type": "text",
-        #         "text": prompt
-        #     }
-        # ]
         content = [image, prompt]
         
         for _ in range(5):

@@ -5,7 +5,7 @@ from PIL import Image
 import tempfile
 
 # Configuration
-IMAGE_FOLDER = "./dataset/image" # path to the image folder
+IMAGE_FOLDER = "../dataset/image" # path to the image folder
 ANNOTATION_FILE = "annotations.json"
 
 # Load image paths

@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Define common variables
-COMPUTE_SCRIPT="/home/davidchan/Projects/visual-puzzles/compute_clip_recall.py"
-INPUT_FOLDER="/home/davidchan/Projects/visual-puzzles/rebus_puzzle/image"
-GROUND_TRUTH="/home/davidchan/Projects/visual-puzzles/rebus_puzzle/answers.json"
-CHECKPOINTS_DIR="/home/davidchan/tulip/checkpoints/"
+COMPUTE_SCRIPT="./compute_clip_recall.py"
+INPUT_FOLDER="../dataset/image"
+GROUND_TRUTH="../dataset/answers.json"
+CHECKPOINTS_DIR="PATH_TO_TULIP_CHECKPOINTS/"
 
 echo "Starting CLIP recall computations for Tulip checkpoints..."
 echo "Input Folder: ${INPUT_FOLDER}"

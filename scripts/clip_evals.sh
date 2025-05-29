@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define common variables for input and ground truth files
-INPUT_FOLDER="/home/davidchan/Projects/visual-puzzles/rebus_puzzle/image"
-GROUND_TRUTH="/home/davidchan/Projects/visual-puzzles/rebus_puzzle/answers.json"
+INPUT_FOLDER="../dataset/image"
+GROUND_TRUTH="../dataset/answers.json"
 
 echo "Starting CLIP recall computations..."
 echo "Input Folder: ${INPUT_FOLDER}"
