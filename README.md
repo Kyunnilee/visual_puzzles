@@ -1,13 +1,10 @@
-# 🧩 Visual Puzzle: Evaluating Vision-Language Model Reasoning with Rebus Puzzles
+# 🧩 Visual Puzzles: Evaluating Vision-Language Model Reasoning with Rebus Puzzles
 
-**Repository for the "Visual Puzzle" project: a benchmark and evaluation suite for probing abstract reasoning, symbolic manipulation, and lateral thinking in Vision-Language Models (VLMs) via challenging rebus puzzles.**
+**Official repository for the "Visual Puzzles" project: A benchmark and evaluation suite for probing abstract reasoning, symbolic manipulation, and lateral thinking in Vision-Language Models (VLMs) via challenging rebus puzzles.**
 
 ---
 
 ## Table of Contents
-
-- [🧩 Visual Puzzle: Evaluating Vision-Language Model Reasoning with Rebus Puzzles](#-visual-puzzle-evaluating-vision-language-model-reasoning-with-rebus-puzzles)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Motivation](#motivation)
   - [Dataset](#dataset)
@@ -28,8 +25,9 @@
 ## Overview
 
 This codebase supports the research and experiments from
-**"Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint"**
-by Heekyung Lee, Jiaxin Ge, Tsung-Han Wu, Minwoo Kang, Trevor Darrell, and David M. Chan.
+[**"Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint"**](https://arxiv.org/abs/2505.23759).
+
+**Authors**: [Heekyung Lee](https://linkedin.com/in/heekyung-lee-624753289),[Jiaxin Ge](https://jiaxin.ge), [Tsung-Han Wu](https://tsunghan-wu.github.io/), [Minwoo Kang](https://joshuaminwookang.github.io), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [David M. Chan](https://dchan.cc/) (POSTECH & UC Berkeley)
 
 We introduce a **probe dataset of 432 hand-annotated English rebus puzzles**, each requiring integration of imagery, spatial arrangement, and symbolic reasoning-challenging VLMs far beyond rote image captioning or straightforward question answering.
 
@@ -156,11 +154,11 @@ If you find this work useful, please cite our paper:
 title={Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint},
 author={Heekyung Lee and Jiaxin Ge and Tsung-Han Wu and Minwoo Kang and Trevor Darrell and David M. Chan},
 year={2025},
-journal={arXiv preprint arXiv:2025.visualpuzzles}
+journal={arXiv preprint arXiv:2505.23759}
 }
 ```
 
-## Acknowledgements
+## 🍀 Acknowledgements
 
 Development supported in part by the National Science Foundation, the Ford Foundation, the BAIR Industrial Alliance, DARPA, and the U.S. Army/AFRL.
 Special thanks to Lisa Dunlap, XuDong Wang, Konpat Preechakul, Baifeng Shi, and Stephanie Murphy for review and ideation support.
