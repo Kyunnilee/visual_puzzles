@@ -2,6 +2,8 @@
 
 **Official repository for the "Visual Puzzles" project: A benchmark and evaluation suite for probing abstract reasoning, symbolic manipulation, and lateral thinking in Vision-Language Models (VLMs) via challenging rebus puzzles.**
 
+🔥 Visit our [official website](https://visual-puzzles.github.io) and [dataset](https://huggingface.co/datasets/Kyunnilee/visual-puzzles) here.
+
 ---
 
 ## Table of Contents
@@ -27,7 +29,7 @@
 This codebase supports the research and experiments from
 [**"Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint"**](https://arxiv.org/abs/2505.23759).
 
-**Authors**: [Heekyung Lee](https://linkedin.com/in/heekyung-lee-624753289),[Jiaxin Ge](https://jiaxin.ge), [Tsung-Han Wu](https://tsunghan-wu.github.io/), [Minwoo Kang](https://joshuaminwookang.github.io), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [David M. Chan](https://dchan.cc/) (POSTECH & UC Berkeley)
+**Authors**: [Heekyung Lee](https://kyunnilee.github.io),[Jiaxin Ge](https://jiaxin.ge), [Tsung-Han Wu](https://tsunghan-wu.github.io/), [Minwoo Kang](https://joshuaminwookang.github.io), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [David M. Chan](https://dchan.cc/) (POSTECH & UC Berkeley)
 
 We introduce a **probe dataset of 432 hand-annotated English rebus puzzles**, each requiring integration of imagery, spatial arrangement, and symbolic reasoning-challenging VLMs far beyond rote image captioning or straightforward question answering.
 
