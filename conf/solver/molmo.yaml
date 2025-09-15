@@ -1,0 +1,4 @@
+_target_: solvers.molmo_solver.MolmoSolver
+name: Molmo-7B-D-0924
+huggingface_model_id: allenai/Molmo-7B-D-0924
+data_dir: "${basic.data_dir}"

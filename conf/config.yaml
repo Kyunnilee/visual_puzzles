@@ -1,6 +1,6 @@
 # Single-needle configuration
 defaults:
-  - solver: gpt4o
+  - solver: molmo
   - _self_
 
 basic:
