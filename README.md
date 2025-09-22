@@ -4,7 +4,8 @@
 
 <div align="center">  
   <img src="assets/logo.png" width="200" height="200">  
-
+  
+<br>
 <p>
     <a href="https://huggingface.co/datasets/Kyunnilee/visual-puzzles">
       <img src="https://img.shields.io/badge/HuggingFace-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset" />
