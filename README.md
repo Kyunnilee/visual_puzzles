@@ -1,11 +1,11 @@
 # 🧩 Visual Puzzles: Evaluating Vision-Language Model Reasoning with Rebus Puzzles
 
+<div >  
+<!--   <img src="assets/logo.png" width="200" height="200">  
+   -->
+  
 **🔥 Official repository for the project "Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint"**
 
-<div align="center">  
-  <img src="assets/logo.png" width="200" height="200">  
-  
-<br>
 <p>
     <a href="https://huggingface.co/datasets/Kyunnilee/visual-puzzles">
       <img src="https://img.shields.io/badge/HuggingFace-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset" />
@@ -20,6 +20,7 @@
     </a>
   </p>  
 </div>
+
 
 ---
 
