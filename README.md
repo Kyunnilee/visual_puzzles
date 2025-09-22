@@ -1,8 +1,24 @@
 # 🧩 Visual Puzzles: Evaluating Vision-Language Model Reasoning with Rebus Puzzles
 
-**Official repository for the "Visual Puzzles" project: A benchmark and evaluation suite for probing abstract reasoning, symbolic manipulation, and lateral thinking in Vision-Language Models (VLMs) via challenging rebus puzzles.**
+**🔥 Official repository for the project "Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint"**
 
-🔥 Visit our [official website](https://visual-puzzles.github.io) and [dataset](https://huggingface.co/datasets/Kyunnilee/visual-puzzles) here.
+<div align="center">  
+  <img src="assets/logo.png" width="200" height="200">  
+
+<p>
+    <a href="https://huggingface.co/datasets/Kyunnilee/visual-puzzles">
+      <img src="https://img.shields.io/badge/HuggingFace-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset" />
+    </a>
+    &nbsp;
+    <a href="https://arxiv.org/abs/2505.23759">
+      <img src="https://img.shields.io/badge/arXiv-2505.23759-b31b1b.svg" alt="arXiv" />
+    </a>
+    &nbsp;
+    <a href="https://2025.emnlp.org">
+      <img src="https://img.shields.io/badge/EMNLP-2025-blueviolet?logo=google-scholar&logoColor=white" alt="EMNLP 2025" />
+    </a>
+  </p>  
+</div>
 
 ---
 
@@ -153,11 +169,12 @@ If you find this work useful, please cite our paper:
 
 ```bibtex
 @inproceedings{lee2025puzzled,
-title={Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint},
-author={Heekyung Lee and Jiaxin Ge and Tsung-Han Wu and Minwoo Kang and Trevor Darrell and David M. Chan},
-year={2025},
-journal={arXiv preprint arXiv:2505.23759}
-}
+              title        = {Puzzled by Puzzles: When Vision-Language Models Can’t Take a Hint},
+              author       = {Heekyung Lee and Jiaxin Ge and Tsung-Han Wu and Minwoo Kang and Trevor Darrell and David M. Chan},
+              year         = {2025},
+              booktitle    = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)},
+              url          = {https://arxiv.org/abs/2505.23759}
+            }
 ```
 
 ## 🍀 Acknowledgements
